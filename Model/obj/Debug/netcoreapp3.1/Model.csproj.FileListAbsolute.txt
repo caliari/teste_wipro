@@ -1,0 +1,17 @@
+C:\Pessoal\Clayton\W\TESTE\TesteDadosCotacao\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Pessoal\Clayton\W\TESTE\TesteDadosCotacao\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Pessoal\Clayton\W\TESTE\TesteDadosCotacao\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Pessoal\Clayton\W\TESTE\TesteDadosCotacao\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Pessoal\Clayton\W\TESTE\TesteDadosCotacao\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Pessoal\Clayton\W\TESTE\TesteDadosCotacao\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Pessoal\Clayton\W\TESTE\TesteDadosCotacao\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Pessoal\Clayton\W\TESTE\TesteDadosCotacao\Model\obj\Debug\netcoreapp3.1\Model.pdb
+C:\Pessoal\Clayton\W\TESTE\TesteDadosCotacao\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+C:\Projetos\TesteWipro\W\TESTE\TesteDadosCotacao\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Projetos\TesteWipro\W\TESTE\TesteDadosCotacao\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Projetos\TesteWipro\W\TESTE\TesteDadosCotacao\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Projetos\TesteWipro\W\TESTE\TesteDadosCotacao\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Projetos\TesteWipro\W\TESTE\TesteDadosCotacao\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Projetos\TesteWipro\W\TESTE\TesteDadosCotacao\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteWipro\W\TESTE\TesteDadosCotacao\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Projetos\TesteWipro\W\TESTE\TesteDadosCotacao\Model\obj\Debug\netcoreapp3.1\Model.pdb

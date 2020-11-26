@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hRpMBVO94P4SEBXBmkMv6VOLZV9EnwknaNzAhUslEsaQLgDRroJp7fbozM76zSzr4duehjruVTY/qBp6/0org==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\TesteWipro\\W\\TESTE\\TesteDadosCotacao\\ConsoleDadosCotacao\\ConsoleDadosCotacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\csvhelper\\16.1.0\\csvhelper.16.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
